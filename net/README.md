@@ -28,14 +28,14 @@
 2. Setup Internet access in both LANs
 3. *Setup Fault Tolerant Internet access
 
-### Bonus Task
+### Bonus Task 1
 
 1. Setup firewall. Block all incoming connections
 2. Allow 8000 port
 
 ### Bonus Task 2
 
-1. Stand in the gap between another student and LAN
+1. Stand inline between another student and LAN
 2. Create inline L3/L4 firewall
 
 ### Decentralized Chat
