@@ -8,6 +8,7 @@ Read the [STUDY.md](STUDY.md) file
 
 1. Completely disable firewall: ufw, firewalld
 2. Flush iptables/nftable rules
+3. Download wireshark
 
 ### P2P connection
 
