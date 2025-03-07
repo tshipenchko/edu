@@ -1,6 +1,7 @@
 ## Basic modules
 
 ### man pages
+
 * [ip](https://linux.die.net/man/8/ip)
 * [iptables](https://linux.die.net/man/8/iptables)
 
@@ -19,23 +20,33 @@
 * [IPTables: NAT и Port forwarding](https://youtu.be/u_a3ouarrVU)
 
 ### networking essentials
+
 * [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)
 * [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)
 * [Архитектура современных компьютерных сетей. L2- и L3-заголовки при коммутации и при маршрутизации](https://youtu.be/YCTDc0hc-zM)
+* [NAT Explained - Network Address Translation](https://youtu.be/FTUV0t6JaDA)
+
+### wireshark
+
+* [Learn Wireshark in 10 minutes - Wireshark Tutorial for Beginners](https://youtu.be/lb1Dw0elw0Q)
+* [Анализатор сети Wireshark | Компьютерные сети 2025 - 8](https://youtu.be/roomx2y6K3E)
 
 ## Extra modules
 
 ### netns
+
 * [Network Namespaces Basics Explained in 15 Minutes](https://youtu.be/j_UUnlVC2Ss)
 * [Introduction to Linux Network Namespaces](https://youtu.be/_WgUwUf1d34)
 * [Нет ни какого докера!](https://youtu.be/JwyskEFAEks)
 
 ### tuntap
+
 * [Universal TUN/TAP device driver](https://docs.kernel.org/networking/tuntap.html)
 * [Linux TUN/TAP virtual network interfaces](https://youtube.com/playlist?list=PL2TXDotVKyDCuM7-MShb_9y2g6LQjVDxw)
 * [Tun/Tap interface tutorial](https://backreference.org/2010/03/26/tuntap-interface-tutorial/index.html)
 
 ### high availability
+
 * [What's VRRP? | Network Essentials](https://youtu.be/OmZ1zZbTHnA)
 * [First Hop Redundancy Protocol Explained | Cisco CCNA 200-301](https://youtu.be/CtZ81OvJxlI)
 * [Meet keepalived - High Availability and Load Balancing in One](https://youtu.be/hPfk0qd4xEY)

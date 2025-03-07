@@ -1,5 +1,9 @@
 ## LAN
 
+### Study materials
+
+Read the [STUDY.md](STUDY.md) file
+
 ### Prerequirements
 
 1. Completely disable firewall: ufw, firewalld
